@@ -17,12 +17,13 @@
           position: relative;
           top: 0;
           left: 0;
+          margin: auto;
           width: 50%;
           height: 50%;
           z-index: 1;
         }
      .home {
-          position: relative;
+          position: absolute;
           top: 30px;
           width: 30%;
           height: 30%;
