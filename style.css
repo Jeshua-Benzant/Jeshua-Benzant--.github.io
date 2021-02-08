@@ -19,9 +19,11 @@
         }
      .home {
           position: relative;
-          top: 150px;
-          width: 125px;
-          height: 100;
+          top: 90px;
+          display: block;
+          margin: auto;
+          width: 10%;
+          height: 10%;
           z-index: 2;            
         }
      .java {
