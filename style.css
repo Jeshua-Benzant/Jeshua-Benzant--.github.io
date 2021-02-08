@@ -18,26 +18,26 @@
           height: 50%;
         }
      .home {
-          position: absolute;
+          position: relative;
           top: 150px;
           display: block;
           margin: auto;
-          width: 30%;
-          height: 30%;
+          width: 10%;
+          height: 10%;
           z-index: 2;            
         }
      .java {
           display: block;
           margin: auto;
-          width: 50%;
-          height: 50%;
+          width: 10%;
+          height: 10%;
           z-index: 2;
         }
      .about {
           display: block;
           margin: auto;
-          width: 50%;
-          height: 50%;
+          width: 10%;
+          height: 10%;
           z-index: 2;
         }
      .text {
