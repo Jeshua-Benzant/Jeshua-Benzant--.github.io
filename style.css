@@ -20,9 +20,9 @@
         }
      .home {
           position: absolute;
-          top: 30px;
-          width: 30%;
-          height: 30%;
+          top: 150px;
+          width: 70%;
+          height: 370%;
           z-index: 2;            
         }
      .java {
