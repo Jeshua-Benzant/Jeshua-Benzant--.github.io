@@ -5,7 +5,6 @@
         body {
             background-color: rgb(97, 250, 255);
                 background-image: url("myBackground.jpg");
-
         }
      .layout {
           display: block;
@@ -23,7 +22,7 @@
      .home {
           display: block;
           position: absolute;
-          top: 290px;
+          top: 300px;
           left: 450px;
           float: left;
           width: 10%;
@@ -33,7 +32,7 @@
      .java {
           display: block;
           position: absolute;
-          top: 290px;
+          top: 300px;
           left: 850px;
           width: 10%;
           height: 10%;
@@ -42,7 +41,7 @@
      .about {
           display: block;
           position: absolute;
-          top: 290px;
+          top: 300px;
           left: 1310px;
           float: right;
           width: 10%;
@@ -53,7 +52,7 @@
           background-color: white;
           margin: auto;
           width: 99%;
-          height: 99;
+          height: 99%;
         }
      .text_me {
           font-family: Times;
@@ -66,6 +65,8 @@
      .about_1 {
           float: left;
           margin-left: 100px;
+          height: 75%;
+          width: 75%;
           display: block;
         }
      .about_2 {
