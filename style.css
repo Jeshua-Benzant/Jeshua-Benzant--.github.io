@@ -20,7 +20,7 @@
      .home {
           display: block;
           position: absolute;
-          top: 260px;
+          top: 300px;
           left: 250px;
           width: 10%;
           height: 10%;
@@ -29,8 +29,8 @@
      .java {
           display: block;
           position: absolute;
-          top: 260px;
-          left: 350px;
+          top: 300px;
+          left: 650px;
           width: 10%;
           height: 10%;
           z-index: 2;
@@ -38,8 +38,8 @@
      .about {
           display: block;
           position: absolute;
-          top: 260px;
-          left: 450px;
+          top: 300px;
+          left: 950px;
           width: 10%;
           height: 10%;
           z-index: 2;
