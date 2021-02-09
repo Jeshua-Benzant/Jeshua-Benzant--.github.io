@@ -25,7 +25,7 @@
      .home {
           display: block;
           position: absolute;
-          top: 315px;
+          top: 325px;
           left: 450px;
           float: left;
           width: 10%;
@@ -35,7 +35,7 @@
      .java {
           display: block;
           position: absolute;
-          top: 315px;
+          top: 325px;
           left: 850px;
           width: 10%;
           height: 10%;
@@ -44,7 +44,7 @@
      .about {
           display: block;
           position: absolute;
-          top: 315px;
+          top: 325px;
           left: 1310px;
           float: right;
           width: 10%;
@@ -59,8 +59,9 @@
         }
      .text_me {
           font-family: Times;
-          margin: auto;
           margin-bottom: 75px;
+          margin-left: 200px;
+          margin right: 200px;
           width: 99%;
           height: 99%;
           z-index: 3;
