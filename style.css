@@ -41,7 +41,6 @@
      .about {
           display: block;
           position: relative;
-          float: right;
           width: 10%;
           height: 10%;
           z-index: 2;
@@ -56,7 +55,6 @@
           z-index: 3;
         }
      .about_1 {
-          float: left;
           height: 15%;
           width: 15%;
           display: block;
