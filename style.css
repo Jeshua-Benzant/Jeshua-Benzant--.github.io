@@ -9,13 +9,17 @@
                      margin-left: auto;
                      margin-right: auto;
         }
+     .layout {
+          display: block;
+          margin: auto;
+          width: 99%;
+          height: 99;
+        }
 
       .banner {
           z-index: 1;
-          display: block;
-          margin: auto;
-          width: 60%;
-          height: 60%;
+           width: 60%;
+           height: 60%
         }
      .home {
           display: block;
@@ -50,7 +54,6 @@
           background-color: white;
         }
      .text_me {
-          text-allign: center;
           font-family: Times;
         }
      .about_1 {
