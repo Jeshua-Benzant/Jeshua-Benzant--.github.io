@@ -14,12 +14,12 @@
           z-index: 1;
           display: block;
           margin: auto;
-          width: 90%;
-          height: 90%;
+          width: 60%;
+          height: 60%;
         }
      .home {
           position: absolute;
-          top: 90px;
+          top: 200px;
           left: 150px;
           width: 10%;
           height: 10%;
