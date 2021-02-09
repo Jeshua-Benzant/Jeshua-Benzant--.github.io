@@ -18,26 +18,25 @@ margin-right: 200px;
 margin-left: 200px;
 background-color: blue;
 position: absolute;
-top: -30px;
   }
 .home {
    position: relative;
   float: left;
-    top: -33px;
+    top: -66px;
  width: 20%;
  padding-right: 20%;
 }
 .java {
   float: left;
   position: relative;
-  top: -33px;
+  top: -66px;
  width: 20%;
  padding-right: 20%;
 }
 .about {
    position: relative;
   float: left;
-    top: -33px;
+    top: -66px;
  width: 20%;
 }
 .banner {
