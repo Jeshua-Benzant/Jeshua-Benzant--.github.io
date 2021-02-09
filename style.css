@@ -6,15 +6,20 @@
 }
 box-sizing: border-box;
 
-.button {
- float: left;
-  width: 11.11%;
- padding: 5px
+.home {
+ position: relative:
+  top: -10px;
+ width: 33.33%;
 }
-.buttons: :after {
-  content: "";
-  clear: both;
-  display: table;
+.java {
+  position: relative:
+  top: -10px;
+ width: 33.33%
+}
+.about {
+  position: relative:
+  top: -10px;
+ width: 33.33%
 }
 .banner {
  margin: 0px auto;
