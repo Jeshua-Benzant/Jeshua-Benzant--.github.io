@@ -2,12 +2,11 @@
             color: rgb(0, 232, 15);
         }  
         body {
-         margin: 400px;
+         margin: 800px;
                 background-image: url("myBackground.jpg");
         }
      .layout {
           display: block;
-          margin: 100px;
           width: 99%;
           height: 99;
         }
@@ -15,18 +14,13 @@
       .banner {
           z-index: 1;
            display: block;
-           width: 60%;
-           height: 60%
         }
      .buttons {
       background-color: white;
 }
      .home {
           display: block;
-          position: absolute;
-          top: 325px;
-          left: 450px;
-          float: left;
+          position: relative;
           width: 10%;
           height: 10%;
           z-index: 2;            
