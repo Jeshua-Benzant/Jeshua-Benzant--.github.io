@@ -9,16 +9,7 @@ box-sizing: border-box;
 .button {
  display: block;
  float: left;
-  width: 33.33%;
-}
-.home {
- width: 5%
-}
-.java {
- width: 5%
-}
-.about {
- width: 5%
+  width: 23.33%;
 }
 .text_me {
  text-allign: center;
