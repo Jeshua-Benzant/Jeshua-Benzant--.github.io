@@ -2,8 +2,10 @@
             color: rgb(0, 232, 15);
         }  
         body {
-         margin: 200px;
-                background-image: url("myBackground.jpg");
+         margin-left: 200px;
+         margin-right: 200ox;
+         margin-bottom: 200px;
+         background-image: url("myBackground.jpg");
         }
       .banner {
           z-index: 1;
