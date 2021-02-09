@@ -25,7 +25,7 @@
           display: block;
           position: absolute;
           top: 310px;
-          margin-left: 400px;
+          left: 450px;
           float: left;
           width: 10%;
           height: 10%;
@@ -35,7 +35,7 @@
           display: block;
           position: absolute;
           top: 310px;
-          margin: auto;
+          left: 850px;
           width: 10%;
           height: 10%;
           z-index: 2;
@@ -44,17 +44,23 @@
           display: block;
           position: absolute;
           top: 310px;
+          left: 1310px;
           float; right
-          margin-right: 400px;
           width: 10%;
           height: 10%;
           z-index: 2;
         }
      .text {
           background-color: white;
+          margin: auto;
+          width: 99%;
+          height: 99;
         }
      .text_me {
           font-family: Times;
+          margin: auto;
+          width: 99%;
+          height: 99;
         }
      .about_1 {
           float: left;
