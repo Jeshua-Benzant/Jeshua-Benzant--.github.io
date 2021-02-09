@@ -6,52 +6,8 @@
          margin-right: 5%;
          margin-bottom: 5%;
          background-image: url("myBackground.jpg");
-        }
-      .banner {
-          z-index: 1;
-           display: block;
-       margin: auto;
-       width: 80%;
-        height: 80%;
-        }
-     .buttons {
-      background-color: white;
-      float: left;
-       width: 33.3%;
-        }
-     .home {
-     padding: 175px;
-      display: block;
-       margin: auto;
-      margin-right: 175px;
-          z-index: 2;            
-        }
-     .java {
-     padding: 175px;
-      flex: 33.33%;
-          z-index: 2;
-        }
-     .about {
-     padding: 175px;
-      flex: 33.33%;
-      margin-left: 175px;
-          z-index: 2;
-        }
-     .text {
-          background-color: white;
-        }
-     .text_me {
-          font-family: Times;
-          z-index: 3;
-        }
-     .about_1 {
-          height: 15%;
-          width: 15%;
-      float: left;
-      padding: 5px;
-        }
-     .about_2 {
-          height: 100px;
-          weidth: 100px;
-          float: right;
-        }
+}
+.buttons {
+ float: left;
+  width: 33.33%;
+}
