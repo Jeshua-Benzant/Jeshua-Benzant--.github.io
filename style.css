@@ -8,18 +8,17 @@ box-sizing: border-box;
 
 .button {
  display: block;
-  margin-right:auto;
  float: left;
   width: 33.33%;
 }
 .home {
- width: 15%
+ width: 5%
 }
 .java {
- width: 15%
+ width: 5%
 }
 .about {
- width: 15%
+ width: 5%
 }
 .text_me {
  text-allign: center;
