@@ -18,7 +18,7 @@
           height: 90%;
         }
      .home {
-          position: relative;
+          position: absolute;
           top: 90px;
           left: 150px;
           width: 10%;
