@@ -10,6 +10,9 @@
       .banner {
           z-index: 1;
            display: block;
+       margin: auto;
+       width: 50%;
+        height: 50%;
         }
      .buttons {
       background-color: white;
@@ -46,6 +49,8 @@
      .about_1 {
           height: 15%;
           width: 15%;
+      float: left;
+      padding: 5px;
         }
      .about_2 {
           height: 10%;
