@@ -62,6 +62,7 @@
           margin-bottom: 75px;
           width: 99%;
           height: 99%;
+          z-index: 3;
         }
      .about_1 {
           float: left;
