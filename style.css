@@ -10,10 +10,11 @@ box-sizing: border-box;
  display: block;
  float: left;
   width: 33.33%;
- padding: 50px
+ padding: 5px
 }
 .banner {
- margin: auto;
+ margin: 0px auto;
+ display: block;
 }
 .text {
  text-allign: justify;
