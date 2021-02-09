@@ -11,8 +11,8 @@
           z-index: 1;
            display: block;
        margin: auto;
-       width: 70%;
-        height: 70%;
+       width: 80%;
+        height: 80%;
         }
      .buttons {
       background-color: white;
@@ -22,20 +22,23 @@
         }
      .home {
           position: relative;
-     padding: 75px;
+     padding: 175px;
       flex: 33.33%;
+      margin-left: 175px;
           z-index: 2;            
         }
      .java {
           position: relative;
-        flex: 33.33%;
-     padding: 75px;
+     padding: 175px;
+      flex: 33.33%;
+      margin-left: 175px;
           z-index: 2;
         }
      .about {
-          position: relative;
-        flex: 33.33%;
-        padding: 75px;
+           position: relative;
+     padding: 175px;
+      flex: 33.33%;
+      margin-left: 175px;
           z-index: 2;
         }
      .text {
