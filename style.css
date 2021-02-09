@@ -5,19 +5,13 @@
          margin: 200px;
                 background-image: url("myBackground.jpg");
         }
-     .layout {
-          display: block;
-          width: 99%;
-          height: 99;
-        }
-
       .banner {
           z-index: 1;
            display: block;
         }
      .buttons {
       background-color: white;
-}
+        }
      .home {
           display: block;
           position: relative;
