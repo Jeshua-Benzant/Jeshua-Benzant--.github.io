@@ -1,31 +1,51 @@
- h2 {
+ .h1 {
+  float: left;
+  position: relative;
+  left: 20%;
+}
+h2 {
             color: rgb(0, 232, 15);
-        }  
+        }
         body {
          background-image: url("myBackground.jpg");
+         margin-left: 200px;
+         margin-right: 200px;
 }
 box-sizing: border-box;
 
+.buttons {
+margin-right: 200px;
+margin-left: 200px;
+background-color: blue;
+position: absolute;
+top: -30px;
+  }
 .home {
- position: relative:
-  top: -10px;
- width: 33.33%;
+   position: relative;
+  float: left;
+    top: -33px;
+ width: 20%;
+ padding-right: 20%;
 }
 .java {
-  position: relative:
-  top: -10px;
- width: 33.33%
+  float: left;
+  position: relative;
+  top: -33px;
+ width: 20%;
+ padding-right: 20%;
 }
 .about {
-  position: relative:
-  top: -10px;
- width: 33.33%
+   position: relative;
+  float: left;
+    top: -33px;
+ width: 20%;
 }
 .banner {
  margin: 0px auto;
  display: block;
+ width: 100%;
 }
-.text {
- text-allign: justify;
- width: 200px;
+.text_me {
+display: inline-block;
+   position: relative;  
 }
