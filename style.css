@@ -11,7 +11,7 @@ box-sizing: border-box;
 
 .button {
  display: block;
-  margin:auto;
+  margin-right:auto;
  float: left;
   width: 33.33%;
 }
