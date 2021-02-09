@@ -14,9 +14,8 @@
 
       .banner {
           z-index: 1;
+           display: block;
            margin: auto;
-           position: fixed;
-           top: 50%;
            width: 60%;
            height: 60%
         }
