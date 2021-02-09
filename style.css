@@ -13,6 +13,15 @@
  float: left;
   width: 10%;
 }
+.home {
+ width: 25%;
+}
+.java {
+ width 25%
+}
+.about {
+ width: 25%
+}
 .text_me {
  text-allign: justify;
 }
