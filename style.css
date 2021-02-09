@@ -15,6 +15,7 @@ box-sizing: border-box;
   content: "";
   clear: both;
   display: table;
+}
 .banner {
  margin: 0px auto;
  display: block;
