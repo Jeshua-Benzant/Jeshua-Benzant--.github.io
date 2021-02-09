@@ -11,8 +11,8 @@
           z-index: 1;
            display: block;
        margin: auto;
-       width: 50%;
-        height: 50%;
+       width: 70%;
+        height: 70%;
         }
      .buttons {
       background-color: white;
@@ -21,26 +21,24 @@
         }
      .home {
           position: relative;
-          width: 10%;
-          height: 10%;
+          width: 30%;
+          height: 30%;
           z-index: 2;            
         }
      .java {
           position: relative;
-          width: 70%;
-          height: 170%;
+          width: 30%;
+          height: 30%;
           z-index: 2;
         }
      .about {
           position: relative;
-          width: 10%;
-          height: 10%;
+          width: 30%;
+          height: 30%;
           z-index: 2;
         }
      .text {
           background-color: white;
-          width: 99%;
-          height: 99%;
         }
      .text_me {
           font-family: Times;
