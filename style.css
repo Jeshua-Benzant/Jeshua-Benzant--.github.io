@@ -8,6 +8,11 @@
          background-image: url("myBackground.jpg");
 }
 .buttons {
+ display: block;
+  margin:auto;
  float: left;
   width: 10%;
+}
+.text_me {
+ text-allign: justify;
 }
