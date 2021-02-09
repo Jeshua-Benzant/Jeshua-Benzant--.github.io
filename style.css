@@ -2,12 +2,12 @@
             color: rgb(0, 232, 15);
         }  
         body {
-            background-color: rgb(97, 250, 255);
+         margin
                 background-image: url("myBackground.jpg");
         }
      .layout {
           display: block;
-          margin: auto;
+          margin: 100px;
           width: 99%;
           height: 99;
         }
@@ -15,7 +15,6 @@
       .banner {
           z-index: 1;
            display: block;
-           margin: auto;
            width: 60%;
            height: 60%
         }
@@ -34,18 +33,14 @@
         }
      .java {
           display: block;
-          position: absolute;
-          top: 325px;
-          left: 850px;
+          position: relative;
           width: 10%;
           height: 10%;
           z-index: 2;
         }
      .about {
           display: block;
-          position: absolute;
-          top: 325px;
-          left: 1310px;
+          position: relative;
           float: right;
           width: 10%;
           height: 10%;
@@ -53,22 +48,15 @@
         }
      .text {
           background-color: white;
-          margin: auto;
           width: 99%;
           height: 99%;
         }
      .text_me {
           font-family: Times;
-          margin-bottom: 75px;
-          margin-left: 200px;
-          margin right: 200px;
-          width: 99%;
-          height: 99%;
           z-index: 3;
         }
      .about_1 {
           float: left;
-          margin-left: 100px;
           height: 15%;
           width: 15%;
           display: block;
@@ -78,5 +66,4 @@
           height: 420px;
           weidth: 419px;
           float: right;
-          margin-right: 100px;
         }
