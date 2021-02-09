@@ -2,9 +2,6 @@
             color: rgb(0, 232, 15);
         }  
         body {
-         margin-left: 5%;
-         margin-right: 5%;
-         margin-bottom: 5%;
          background-image: url("myBackground.jpg");
 }
 box-sizing: border-box;
