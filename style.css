@@ -2,9 +2,9 @@
             color: rgb(0, 232, 15);
         }  
         body {
-         margin-left: 200px;
-         margin-right: 200ox;
-         margin-bottom: 200px;
+         margin-left: 5%;
+         margin-right: 5%;
+         margin-bottom: 5%;
          background-image: url("myBackground.jpg");
         }
       .banner {
@@ -13,23 +13,22 @@
         }
      .buttons {
       background-color: white;
+      float: left;
+       width: 33.3%;
         }
      .home {
-          display: block;
           position: relative;
           width: 10%;
           height: 10%;
           z-index: 2;            
         }
      .java {
-          display: block;
           position: relative;
           width: 10%;
           height: 10%;
           z-index: 2;
         }
      .about {
-          display: block;
           position: relative;
           width: 10%;
           height: 10%;
@@ -47,10 +46,8 @@
      .about_1 {
           height: 15%;
           width: 15%;
-          display: block;
         }
      .about_2 {
-          display: block;
           height: 10%;
           weidth: 10%;
           float: right;
