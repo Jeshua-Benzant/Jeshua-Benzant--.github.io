@@ -7,12 +7,14 @@
          margin-bottom: 5%;
          background-image: url("myBackground.jpg");
 }
+box-sizing: border-box;
+
 .button {
  display: block;
   margin:auto;
  float: left;
-  width: 30%;
+  width: 33.33%;
 }
 .text_me {
- text-allign: justify;
+ text-allign: center;
 }
