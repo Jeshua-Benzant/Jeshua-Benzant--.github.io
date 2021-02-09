@@ -18,21 +18,28 @@
           height: 60%;
         }
      .home {
+          display: block;
           position: absolute;
-          top: 200px;
-          left: 150px;
+          top: 260px;
+          left: 250px;
           width: 10%;
           height: 10%;
           z-index: 2;            
         }
      .java {
           display: block;
+          position: absolute;
+          top: 260px;
+          left: 350px;
           width: 10%;
           height: 10%;
           z-index: 2;
         }
      .about {
           display: block;
+          position: absolute;
+          top: 260px;
+          left: 450px;
           width: 10%;
           height: 10%;
           z-index: 2;
