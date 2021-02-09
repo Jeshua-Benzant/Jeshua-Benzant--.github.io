@@ -24,6 +24,8 @@
      position: relative;
      padding: 175px;
       flex: 33.33%;
+      display: block;
+       margin: auto;
       margin-right: 175px;
           z-index: 2;            
         }
