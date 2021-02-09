@@ -16,25 +16,26 @@
         }
      .buttons {
       background-color: white;
+      display: flex;
       float: left;
        width: 33.3%;
         }
      .home {
           position: relative;
-          width: 30%;
-          height: 30%;
+     padding: 75px;
+      flex: 33.33%;
           z-index: 2;            
         }
      .java {
           position: relative;
-          width: 30%;
-          height: 30%;
+        flex: 33.33%;
+     padding: 75px;
           z-index: 2;
         }
      .about {
           position: relative;
-          width: 30%;
-          height: 30%;
+        flex: 33.33%;
+        padding: 75px;
           z-index: 2;
         }
      .text {
