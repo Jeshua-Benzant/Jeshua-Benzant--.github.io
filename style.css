@@ -1,8 +1,18 @@
- .h1 {
-  float: left;
+.h1 {
   position: relative;
-  left: 20%;
+  text-align: center;
+  z-index: 2;
 }
+.h1::before {
+  content: "";
+    background-color: lightblue;
+    position: absolute;
+    height: 7vw;
+    width: 42vw;
+    left: 0px;
+    top: 1vw;
+    z-index: -2;
+  }
 h2 {
             color: rgb(0, 232, 15);
         }
@@ -16,41 +26,40 @@ box-sizing: border-box;
 .buttons {
 background-color: blue;
 position: absolute;
+
+
   }
 .home {
    position: relative;
+   top: -22px;
   float: left;
-    top: -66px;
  width: 30%;
  padding-right: 5%;
+ z-index: 3;
 }
 .java {
   float: left;
   position: relative;
-  top: -66px;
+     top: -22px;
  width: 30%;
  padding-right: 5%;
+  z-index: 3;
 }
 .about {
    position: relative;
+      top: -22px;
   float: left;
-    top: -66px;
  width: 30%;
+  z-index: 3;
 }
 .banner {
  margin: 0px auto;
  display: block;
  width: 100%;
+  z-index: 1;
 }
-.text_me {
-display: inline-block;
-   position: relative;  
-}
-.about_me_2 {
- width: 10%;
- height: auto;
- float: right;
-position: absolute;
- bottom: 0px;
-margin-right: 350px;
+p {
+  background-color: lightgreen;
+text-align: center;
+z-index: 2;
 }
