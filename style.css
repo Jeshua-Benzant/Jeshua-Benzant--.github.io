@@ -1,17 +1,19 @@
 .h1 {
   position: relative;
+ bottom: 30px;
   font-size: 46px;
   text-align: center;
   z-index: 1;
+  margin-bottom: 30px;
 }
 .h1::before {
   content: "";
     background-color: lightblue;
     position: absolute;
-    height: 7.9vw;
+    height: 9vw;
     width: 100%;
-    left: 0px;
-    top: -1.7vw;
+    left: -29.1%;
+    top: -0.3vw;
     z-index: -2;
   margin-right: 350px;
   margin-left: 350px;
@@ -50,7 +52,7 @@ position: absolute;
 }
 .about {
    position: relative;
-      top: -63px;
+      top: -61px;
   float: left;
  width: 10%;
   z-index: 3;
@@ -64,21 +66,31 @@ position: absolute;
 p {
   position:relative;
   font-size: 24px;
-  background-color: white;
+ 
 text-align: center;
 z-index: 2;
 }
+p::before {
+  content: "";
+ background-color: white;
+    position: absolute;
+        left: 0%;
+    height: 26vw;
+    width: 100%;
+    top: -0.3vw;
+    z-index: -2;
+}
 .about_1 {
-     position: relative;
- top: 1vw;
-  float: bottom;
-  left: 0px;
-  width: 400px;
+     position: absolute;
+ top: 120%;
+  float: left;
+  left: 100px;
+  width: 35%;
 }
 .about_2 {
-   position: relative;
-  bottom: 0px;
-  left: 3px;
+   position: absolute;
+   top: 120%;
   float: right;
-  width: 300px;
+  width: 23%;
+  right: 100px;
 }
