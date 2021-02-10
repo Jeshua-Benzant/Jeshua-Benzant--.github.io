@@ -7,8 +7,8 @@
   content: "";
     background-color: lightblue;
     position: absolute;
-    height: 10vw;
-    width: 63vw;
+    height: -10vw;
+    width: 61vw;
     left: 0px;
     top: 1vw;
     z-index: -2;
