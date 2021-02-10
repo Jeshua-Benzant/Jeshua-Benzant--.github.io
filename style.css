@@ -1,5 +1,6 @@
 .h1 {
   position: relative;
+  font-size: 46px;
   text-align: center;
   z-index: 1;
 }
@@ -60,6 +61,7 @@ position: absolute;
 }
 p {
   position:relative;
+  font-size: 24px;
   background-color: white;
 text-align: center;
 z-index: 2;
