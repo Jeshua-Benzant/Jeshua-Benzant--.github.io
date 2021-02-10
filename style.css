@@ -8,7 +8,7 @@
     background-color: lightblue;
     position: absolute;
     height: 7vw;
-    width: 62.5vw;
+    width: 426px;
     left: 0px;
     top: -1.5vw;
     z-index: -2;
@@ -67,7 +67,8 @@ z-index: 2;
 .about_1 {
      position: relative;
  top: 1vw;
-  float: left;
+  float: bottom;
+  left: 0px;
   width: 400px;
 }
 .about_2 {
