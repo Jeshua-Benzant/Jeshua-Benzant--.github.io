@@ -7,10 +7,10 @@
   content: "";
     background-color: lightblue;
     position: absolute;
-    height: 8vw;
-    width: 63vw;
+    height: 7vw;
+    width: 62.5vw;
     left: 0px;
-    top: -2vw;
+    top: -1.5vw;
     z-index: -2;
   }
 h2 {
