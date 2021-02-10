@@ -59,6 +59,7 @@ position: absolute;
   z-index: 1;
 }
 p {
+  position:relative;
   background-color: lightgreen;
 text-align: center;
 z-index: 2;
