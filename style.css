@@ -48,3 +48,11 @@ position: absolute;
 display: inline-block;
    position: relative;  
 }
+.about_me_2 {
+ width: 10%;
+ height: auto;
+ float: right;
+position: absolute;
+ bottom: 0px;
+margin-right: 200px;
+}
