@@ -8,11 +8,13 @@
   content: "";
     background-color: lightblue;
     position: absolute;
-    height: 7vw;
-    width: 426px;
+    height: 7.9vw;
+    width: 100%;
     left: 0px;
-    top: -1.5vw;
+    top: -1.7vw;
     z-index: -2;
+  margin-right: 350px;
+  margin-left: 350px;
   }
 h2 {
             color: rgb(0, 232, 15);
