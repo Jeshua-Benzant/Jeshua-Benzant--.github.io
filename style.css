@@ -8,8 +8,8 @@ h2 {
         }
         body {
          background-image: url("myBackground.jpg");
-         margin-left: 200px;
-         margin-right: 200px;
+         margin-left: 350px;
+         margin-right: 350px;
 }
 box-sizing: border-box;
 
@@ -54,5 +54,5 @@ display: inline-block;
  float: right;
 position: absolute;
  bottom: 0px;
-margin-right: 200px;
+margin-right: 350px;
 }
