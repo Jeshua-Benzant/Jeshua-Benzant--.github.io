@@ -8,7 +8,7 @@
     background-color: lightblue;
     position: absolute;
     height: 10vw;
-    width: 61vw;
+    width: 62vw;
     left: 0px;
     top: -3vw;
     z-index: -2;
@@ -60,7 +60,7 @@ position: absolute;
 }
 p {
   position:relative;
-  background-color: lightgreen;
+  background-color: white;
 text-align: center;
 z-index: 2;
 }
