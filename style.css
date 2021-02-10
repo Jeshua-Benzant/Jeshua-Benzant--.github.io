@@ -7,10 +7,10 @@
   content: "";
     background-color: lightblue;
     position: absolute;
-    height: -3vw;
+    height: 10vw;
     width: 61vw;
     left: 0px;
-    top: 1vw;
+    top: -7vw;
     z-index: -2;
   }
 h2 {
@@ -47,7 +47,7 @@ position: absolute;
 }
 .about {
    position: relative;
-      top: -64px;
+      top: -63px;
   float: left;
  width: 10%;
   z-index: 3;
