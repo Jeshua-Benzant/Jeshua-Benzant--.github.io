@@ -65,10 +65,14 @@ text-align: center;
 z-index: 2;
 }
 .about_me_1 {
+  position: relative;
+  bottom: 0px;
   float: left;
   width: 20%;
 }
 .about_me_2 {
+   position: relative;
+  bottom: 0px;
   float: right;
   width: 100px;
   height: auto;
