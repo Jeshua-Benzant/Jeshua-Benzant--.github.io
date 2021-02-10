@@ -7,7 +7,7 @@
   content: "";
     background-color: lightblue;
     position: absolute;
-    height: -10vw;
+    height: -3vw;
     width: 61vw;
     left: 0px;
     top: 1vw;
@@ -68,11 +68,11 @@ z-index: 2;
      position: relative;
   bottom: 0px;
   float: left;
-  width: 100px;
+  width: 400px;
 }
 .about_2 {
    position: relative;
   bottom: 0px;
   float: right;
-  width: 100px;
+  width: 300px;
 }
