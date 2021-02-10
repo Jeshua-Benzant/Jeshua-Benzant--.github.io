@@ -14,8 +14,6 @@ h2 {
 box-sizing: border-box;
 
 .buttons {
-margin-right: 200px;
-margin-left: 200px;
 background-color: blue;
 position: absolute;
   }
@@ -23,21 +21,21 @@ position: absolute;
    position: relative;
   float: left;
     top: -66px;
- width: 10%;
- padding-right: 35%;
+ width: 30%;
+ padding-right: 5%;
 }
 .java {
   float: left;
   position: relative;
   top: -66px;
- width: 10%;
- padding-right: 35%;
+ width: 30%;
+ padding-right: 5%;
 }
 .about {
    position: relative;
   float: left;
     top: -66px;
- width: 10%;
+ width: 30%;
 }
 .banner {
  margin: 0px auto;
