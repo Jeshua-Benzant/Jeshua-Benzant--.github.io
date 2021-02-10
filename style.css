@@ -64,8 +64,11 @@ text-align: center;
 z-index: 2;
 }
 .about_me_1 {
-  width: 50%
+  float: left;
+  width: 20%;
 }
 .about_me_2 {
-  width: 13%
+  float: right;
+  width: 100px;
+  height: auto;
 }
