@@ -78,7 +78,7 @@ p::before {
     position: absolute;
         left: 0%;
         overflow-y: hidden;
-    height: 200%;
+    height: 280%;
     width: 100%;
     top: vw;
     z-index: -2;
@@ -87,13 +87,13 @@ p::before {
      position: absolute;
  top: 110%;
   float: left;
-  left: 100px;
+  left: 110px;
   width: 35%;
 }
 .about_2 {
    position: absolute;
    top: 110%;
   float: right;
-  width: 23%;
+  width: 15%;
   right: 100px;
 }
