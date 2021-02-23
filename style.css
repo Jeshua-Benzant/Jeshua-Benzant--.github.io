@@ -80,7 +80,7 @@ z-index: 2;
     position: absolute;
         left: 0%;
         overflow-y: hidden;
-    height: 630%;
+    height: 230%;
     width: 100%;
     top: vw;
     z-index: -2;
@@ -108,11 +108,11 @@ z-index: 2;
 .java_txt::before 
 {
   content: "";
- background-color: blue;
+ background-color: white;
     position: absolute;
         left: 0%;
         overflow-y: hidden;
-    height: 630%;
+    height: 1930%;
     width: 100%;
     top: vw;
     z-index: -2;
