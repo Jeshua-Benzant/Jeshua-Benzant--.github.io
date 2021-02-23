@@ -9,6 +9,7 @@
 .h1::before {
   content: "";
     background-color: lightblue;
+  background-repeat: no-repeat;
     position: absolute;
     float: left;
     height: 11vw;
