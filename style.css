@@ -75,11 +75,11 @@ z-index: 2;
 }
 p::before {
   content: "";
- background-color: white;
+ background-color: blue;
     position: absolute;
         left: 0%;
         overflow-y: hidden;
-    height: 280%;
+    height: 630%;
     width: 100%;
     top: vw;
     z-index: -2;
@@ -97,4 +97,14 @@ p::before {
   float: right;
   width: 15%;
   right: 100px;
+}
+.dance
+{
+  float:left;
+}
+.race
+{ 
+position: relative;
+top: -8w;
+  float:right;
 }
