@@ -98,13 +98,33 @@ p::before {
   width: 15%;
   right: 100px;
 }
+.java_txt
+{ position:relative;
+  font-size: 24px;
+  text-align: center;
+  z-index: 2;
+}
+.java_txt::before {
+  content: "";
+ background-color: blue;
+    position: absolute;
+        left: 0%;
+        overflow-y: hidden;
+    height: 630%;
+    width: 100%;
+    top: vw;
+    z-index: -2;
+}
 .dance
 {
+  position:relative;
   float:left;
+  z-index:3;
 }
 .race
 { 
 position: relative;
 top: -8w;
   float:right;
+  z-index: 3;
 }
