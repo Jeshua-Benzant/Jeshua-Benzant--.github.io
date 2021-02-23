@@ -81,7 +81,7 @@ z-index: 2;
     position: absolute;
         left: 0%;
         overflow-y: hidden;
-    height: 230%;
+    height: 270%;
     width: 100%;
     top: vw;
     z-index: -2;
@@ -91,13 +91,13 @@ z-index: 2;
  top: 110%;
   float: left;
   left: 110px;
-  width: 35%;
+  width: 30%;
 }
 .about_2 {
    position: absolute;
    top: 110%;
   float: right;
-  width: 15%;
+  width: 19%;
   right: 100px;
 }
 .java_txt
