@@ -66,14 +66,15 @@ position: absolute;
  width: 100%;
   z-index: 2;
 }
-p {
+.text{
   position:relative;
   font-size: 24px;
  
 text-align: center;
 z-index: 2;
 }
-p::before {
+.text::before 
+{
   content: "";
  background-color: blue;
     position: absolute;
@@ -104,7 +105,8 @@ p::before {
   text-align: center;
   z-index: 2;
 }
-.java_txt::before {
+.java_txt::before 
+{
   content: "";
  background-color: blue;
     position: absolute;
