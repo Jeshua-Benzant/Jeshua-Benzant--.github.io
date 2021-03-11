@@ -112,7 +112,7 @@ z-index: 2;
     position: absolute;
         left: 0%;
         overflow-y: hidden;
-    height: 3630%;
+    height: 4200%;
     width: 100%;
     top: vw;
     z-index: -2;
@@ -127,14 +127,20 @@ z-index: 2;
 .race
 { 
 position: relative;
-top: -9w;
   float:right;
   z-index: 3;
+}
+.follow
+{
+  position: relative;
+  top:initial
+  float: right;
 }
 .decision
 {
   position:relative;
-  top: -24.5vw;
-  right:200%;
+  float: left;
+  right: 200%;
+  top: -28vw;
   z-index: 3;
 }
