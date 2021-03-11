@@ -8,7 +8,7 @@
 }
 .h1::before {
   content: "";
-    background-color: lightblue;
+    background-color: blue;
 
     position: absolute;
     float: left;
@@ -22,7 +22,7 @@ h2 {
             color: rgb(0, 232, 15);
         }
         body {
-         background-image: url("myBackground.jpg");
+         background-color: lightblue;
          margin-left: 350px;
          margin-right: 350px;
 }
@@ -112,7 +112,7 @@ z-index: 2;
     position: absolute;
         left: 0%;
         overflow-y: hidden;
-    height: 4200%;
+    height:  6000%;
     width: 100%;
     top: vw;
     z-index: -2;
@@ -143,4 +143,9 @@ position: relative;
   right: 199%;
   top: -28vw;
   z-index: 3;
+}
+.zoo
+{
+  position: relative;
+top: -27vw;
 }
