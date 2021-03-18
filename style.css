@@ -12,10 +12,10 @@
 
     position: absolute;
     float: left;
-    height: 11vw;
+    height: 12vw;
     width: 100%;
     left: 0%;
-    top: -0.3vw;
+    top: -3.2vw;
     z-index: -2;
   }
 h2 {
@@ -28,11 +28,12 @@ h2 {
 }
 box-sizing: border-box;
 
-div#buttons {
-background-color: blue;
-position: relative;
-width: 100%;
-height: auto;
+#buttons
+{
+    position: absolute;
+    width: 49%;
+    height: 5%;
+    z-index: 3;
  }
  #container
  {
@@ -94,26 +95,42 @@ z-index: 2;
   position: absolute;
   left: 0%;
   overflow-y: hidden;
-  height: 91vw;
+  height: 95vw;
   width: 100%;
   z-index: -2;
   margin-right: 350px;
 }
-table
+table#table\#1
 {
+  position: relative;
+  left: -0.3%;
+  top: -52px;
   width: 100%;
 }
-td
+.home
 {
+  width: 100px;
+  padding-right: 20%;
+}
+.java 
+{
+  width:100px;
+}
+.about 
+{
+  width: 100px;
+  float: right;
+}
+table#table\#2 {
+    width: 100%;
 }
 .dance
-{position: relative;float: left;z-index: 3;}
+{position: relative;float: left;padding-right: 15%;z-index: 3;}
 .race
 {
   position: relative;
   float: right;
   z-index: 3;
-  margin-left: 8%;
 }
 .follow
 {
