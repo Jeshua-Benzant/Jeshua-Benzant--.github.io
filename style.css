@@ -38,7 +38,7 @@ height: auto;
  {
    position: relative;
    width: auto;
-   padding: 63px;
+   /* padding: 63px; */
    height: 210vw;
    z-index: 3;
  }
@@ -130,7 +130,10 @@ table
 padding-right: 15px;
 }
 .dance
-{position: relative;float: left;z-index: 3;margin-right: 15%;image-rendering: optimizespeed: 10%;}
+{position: relative;
+float: left;z-index: 3;
+margin-right: 15%;
+image-rendering: optimizespeed: 10%;}
 .race
 {
   position: relative;
