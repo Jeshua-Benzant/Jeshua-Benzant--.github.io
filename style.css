@@ -129,6 +129,10 @@ table
   width: 100px;
 padding-right: 15px;
 }
+td
+{
+  padding-right: 15.5%;
+}
 .dance
 {position: relative;
 float: left;z-index: 3;
