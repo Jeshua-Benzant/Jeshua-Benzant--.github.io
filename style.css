@@ -42,31 +42,6 @@ height: auto;
    height: 210vw;
    z-index: 3;
  }
-.home {
-   position: relative;
-   top: -60px;
-  float: left;
- max-width: 10%;
- padding-right: 35%;
- z-index: 3;
-}
-.java {
-  
-  position: relative;
-     top: -60px;
- width: 10%;
- margin-left: auto;
- margin-right: auto;
- padding-right: 35%;
-  z-index: 3;
-}
-.about {
-   position: relative;
-      top: -61px;
-  float: right;
- width: 10%;
-  z-index: 3;
-}
 .banner {
  margin: 0px auto;
  display: block;
@@ -126,18 +101,13 @@ z-index: 2;
 }
 table
 {
-  width: 100px;
-padding-right: 15px;
+  width: 100%;
 }
 td
 {
-  padding-right: 15.5%;
 }
 .dance
-{position: relative;
-float: left;z-index: 3;
-margin-right: 15%;
-image-rendering: optimizespeed: 10%;}
+{position: relative;float: left;z-index: 3;}
 .race
 {
   position: relative;
