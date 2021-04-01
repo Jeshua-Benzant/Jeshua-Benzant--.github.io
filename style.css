@@ -157,3 +157,13 @@ table#table\#2 {
   positon: relative;
   float: left;
 }
+.tictac
+{
+  position: relative;
+  float: right;
+}
+.mash
+{
+  position: relative;
+  float: left;
+}
